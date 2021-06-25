@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rmpomodoro/static/css/main.a4ffdd20.chunk.css",
+    "main.js": "/rmpomodoro/static/js/main.f5505b91.chunk.js",
+    "main.js.map": "/rmpomodoro/static/js/main.f5505b91.chunk.js.map",
+    "runtime-main.js": "/rmpomodoro/static/js/runtime-main.b1ebddad.js",
+    "runtime-main.js.map": "/rmpomodoro/static/js/runtime-main.b1ebddad.js.map",
+    "static/js/2.1b3d2b31.chunk.js": "/rmpomodoro/static/js/2.1b3d2b31.chunk.js",
+    "static/js/2.1b3d2b31.chunk.js.map": "/rmpomodoro/static/js/2.1b3d2b31.chunk.js.map",
+    "static/js/3.9fb6ebcf.chunk.js": "/rmpomodoro/static/js/3.9fb6ebcf.chunk.js",
+    "static/js/3.9fb6ebcf.chunk.js.map": "/rmpomodoro/static/js/3.9fb6ebcf.chunk.js.map",
+    "index.html": "/rmpomodoro/index.html",
+    "static/css/main.a4ffdd20.chunk.css.map": "/rmpomodoro/static/css/main.a4ffdd20.chunk.css.map",
+    "static/js/2.1b3d2b31.chunk.js.LICENSE.txt": "/rmpomodoro/static/js/2.1b3d2b31.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1ebddad.js",
+    "static/js/2.1b3d2b31.chunk.js",
+    "static/css/main.a4ffdd20.chunk.css",
+    "static/js/main.f5505b91.chunk.js"
+  ]
+}
